@@ -1,0 +1,29 @@
+﻿@model IEnumerable<CarDealer.Models.PartViewModel>
+
+@{
+    ViewData["Title"] = "Parts List";
+}
+
+<h1>Parts List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Supplier ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var part in Model)
+        {
+            <tr>
+                <td>@part.Name</td>
+                <td>@part.Price</td>
+                <td>@part.Quantity</td>
+                <td>@part.SupplierId</td>
+            </tr>
+        }
+    </tbody>
+</table>

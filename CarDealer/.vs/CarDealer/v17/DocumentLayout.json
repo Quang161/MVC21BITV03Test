@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2DE139-0FFB-40DC-9828-EF079290BDC7}|CarDealer.csproj|D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\views\\parts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C2DE139-0FFB-40DC-9828-EF079290BDC7}|CarDealer.csproj|solutionrelative:views\\parts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2DE139-0FFB-40DC-9828-EF079290BDC7}|CarDealer.csproj|d:\\application software\\application development\\classprojects\\phuquangthangmidtest\\cardealer\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2DE139-0FFB-40DC-9828-EF079290BDC7}|CarDealer.csproj|solutionrelative:controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2DE139-0FFB-40DC-9828-EF079290BDC7}|CarDealer.csproj|d:\\application software\\application development\\classprojects\\phuquangthangmidtest\\cardealer\\views\\parts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C2DE139-0FFB-40DC-9828-EF079290BDC7}|CarDealer.csproj|solutionrelative:views\\parts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2DE139-0FFB-40DC-9828-EF079290BDC7}|CarDealer.csproj|D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\models\\partviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2DE139-0FFB-40DC-9828-EF079290BDC7}|CarDealer.csproj|solutionrelative:models\\partviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2DE139-0FFB-40DC-9828-EF079290BDC7}|CarDealer.csproj|D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2DE139-0FFB-40DC-9828-EF079290BDC7}|CarDealer.csproj|solutionrelative:models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2DE139-0FFB-40DC-9828-EF079290BDC7}|CarDealer.csproj|D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2DE139-0FFB-40DC-9828-EF079290BDC7}|CarDealer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2DE139-0FFB-40DC-9828-EF079290BDC7}|CarDealer.csproj|D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C2DE139-0FFB-40DC-9828-EF079290BDC7}|CarDealer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\Views\\Parts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Parts\\Create.cshtml",
+              "ToolTip": "D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\Views\\Parts\\Create.cshtml",
+              "RelativeToolTip": "Views\\Parts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:44:48.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartsController.cs",
+              "DocumentMoniker": "D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\Controllers\\PartsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PartsController.cs",
+              "ToolTip": "D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\Controllers\\PartsController.cs",
+              "RelativeToolTip": "Controllers\\PartsController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:44:07.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartViewModel.cs",
+              "DocumentMoniker": "D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\Models\\PartViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\PartViewModel.cs",
+              "ToolTip": "D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\Models\\PartViewModel.cs",
+              "RelativeToolTip": "Models\\PartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:43:04.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Part.cs",
+              "DocumentMoniker": "D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\Models\\Part.cs",
+              "RelativeDocumentMoniker": "Models\\Part.cs",
+              "ToolTip": "D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\Models\\Part.cs",
+              "RelativeToolTip": "Models\\Part.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:05:03.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\Views\\Parts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Parts\\Index.cshtml",
+              "ToolTip": "D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\Views\\Parts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Parts\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T08:10:52.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:00:31.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Application software\\Application development\\ClassProjects\\PhuQuangThangMidTest\\CarDealer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T06:58:36.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
