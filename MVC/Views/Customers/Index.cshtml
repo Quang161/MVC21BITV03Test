@@ -1,0 +1,33 @@
+﻿@model IEnumerable<CarDealer.Models.Customer>
+
+@{
+    ViewData["Title"] = "Customers";
+}
+
+<h1>Customers</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>BirthDate</th>
+            <th>IsYoungDriver</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.Id</td>
+                <td>@customer.Name</td>
+                <td>@customer.BirthDate.ToString("yyyy-MM-dd")</td>
+                <td>@(customer.IsYoungDriver ? "Yes" : "No")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Create" class="btn btn-primary">Create New Customer</a>
+</div>
